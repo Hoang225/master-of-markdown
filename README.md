@@ -19,7 +19,7 @@
 
 ## 🌲 Introduction
 
-Camping is a great way to escape everyday routines and explore nature.
+[Camping] (https://en.wikipedia.org/wiki/Camping) is a great way to escape everyday routines and explore nature.
 
 **The main goals of this guide are:**
 
