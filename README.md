@@ -37,4 +37,11 @@ Camping offers many benefits:
 
 *Camping is not just about sleeping in a tent.*
 
+```python
+def calculate_water(people, days):
+    water_per_day = 3
+    total_water = people * days * water_per_day
+    return total_water
+
+print(calculate_water(2, 3))
 ---
