@@ -37,14 +37,6 @@ Camping offers many benefits:
 
 *Camping is not just about sleeping in a tent.*
 
-```python
-def calculate_water(people, days):
-    water_per_day = 3
-    total_water = people * days * water_per_day
-    return total_water
-
-print(calculate_water(2, 3))
----
 ## ⛺ Types of Camping Tents
 
 | Tent Type | Advantages | Disadvantages | Best For |
@@ -54,3 +46,12 @@ print(calculate_water(2, 3))
 | Backpacking Tent | Very lightweight, compact | Less interior space | Hiking |
 | Cabin Tent | Large interior, comfortable | Heavy and bulky | Car camping |
 | Pop-up Tent | Extremely easy to set up | Less durable in harsh weather | Short trips |
+
+```python
+def calculate_water(people, days):
+    water_per_day = 3
+    total_water = people * days * water_per_day
+    return total_water
+
+print(calculate_water(2, 3))
+---
