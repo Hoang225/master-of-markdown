@@ -45,3 +45,12 @@ def calculate_water(people, days):
 
 print(calculate_water(2, 3))
 ---
+## ⛺ Types of Camping Tents
+
+| Tent Type | Advantages | Disadvantages | Best For |
+|---|---|---|---|
+| Dome Tent | Easy to set up, lightweight | Limited space | Beginners |
+| Tunnel Tent | Spacious, good wind resistance when pitched correctly | More difficult to set up | Family camping |
+| Backpacking Tent | Very lightweight, compact | Less interior space | Hiking |
+| Cabin Tent | Large interior, comfortable | Heavy and bulky | Car camping |
+| Pop-up Tent | Extremely easy to set up | Less durable in harsh weather | Short trips |
