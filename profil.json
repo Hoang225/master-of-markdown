@@ -1,0 +1,15 @@
+{
+  "jmeno": "Alex"
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa":{
+    "mesto": "Praha",
+    "stat": "Ceska Republika"
+  },
+  "konicky":[
+    "spani"
+    "hrani videoher"
+    "prochazky"
+  ]
+}
