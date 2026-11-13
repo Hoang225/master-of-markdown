@@ -2,7 +2,7 @@
   "jmeno": "Alex"
   "vek": 16,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Nerád sportuji",
   "adresa":{
     "mesto": "Praha",
     "stat": "Ceska Republika"
@@ -11,5 +11,7 @@
     "spani"
     "hrani videoher"
     "prochazky"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
+
